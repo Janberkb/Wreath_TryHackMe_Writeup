@@ -1,4 +1,4 @@
-# Wreath Network Pentest Report
+# Wreath Network Pentest Report: https://www.notion.so/janberknotes/Wreath-Network-Pentest-Report-13f3633271b04773a86b01bfb7853541
 
 📡 **[https://tryhackme.com/room/wreath](https://tryhackme.com/room/wreath)**
 
